@@ -3,8 +3,8 @@ function buildMenu() {
         ["Startsida", "index.html"],
         ["Produktsida", "produktsida.html"],
         ["Om oss", "omoss.html"],
-        ["Kontakta oss", "kontaktaoss.html"]
-    ]
+        ["Kontakta oss", "kontaktaoss.html"],
+        ["Kampanj" "https://louizanicosia.wordpress.com/var-arliga-pask-kampanj/"]
 
     var content = ""
     for (var i = 0; i < links.length; i++) {
